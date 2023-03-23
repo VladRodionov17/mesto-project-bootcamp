@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .profile__add{
+        max-width: 282px;
+        margin: 0 auto;
+    }
+}

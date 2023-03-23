@@ -1,0 +1,16 @@
+.logo {
+    width: 142px;
+    height: 33px;
+    background-image: url(../../images/logo.svg);
+    background-repeat: no-repeat;
+
+}
+
+@media (max-width: 768px){
+    .logo {
+        margin-left: 27px;
+        background-image: url(../../images/logo-mini.svg);
+    }
+}
+
+

@@ -1,0 +1,20 @@
+.popup__description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+    height: 27px;
+    width: 358px;
+    margin: 0 0 48px 0;
+    padding: 0 0 10px;
+    border: none;
+    border-bottom: 1px solid rgb(182, 181, 181);
+}
+
+@media (max-width: 768px) {
+ 
+    .popup__description {
+        margin-bottom: 45px;
+        width: 238px;
+    }
+}

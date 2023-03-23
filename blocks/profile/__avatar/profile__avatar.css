@@ -1,0 +1,15 @@
+.profile__avatar {
+    background-image: url(../../../images/zhak.png);
+    background-position: center;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 27px;
+}
+
+@media (max-width: 768px){
+    .profile__avatar {
+        margin: 0 auto 26px;
+    }
+}

@@ -1,0 +1,10 @@
+.profile__title-container {
+    margin-top: 22px;
+    
+}
+
+@media (max-width: 768px){
+    .profile__title-container {
+        margin: 0 auto;
+    }
+}
